@@ -1,10 +1,10 @@
 <div>
 
-# [VUdon](https://github.com/Varneon/VUdon) - Repository Template [![GitHub Repo stars](https://img.shields.io/github/stars/Varneon/Repository-Template-VUdon?style=flat&label=Stars)](https://github.com/Varneon/Repository-Template-VUdon/stargazers) [![GitHub all releases](https://img.shields.io/github/downloads/Varneon/Repository-Template-VUdon/total?color=blue&label=Downloads&style=flat)](https://github.com/Varneon/Repository-Template-VUdon/releases) [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Varneon/Repository-Template-VUdon?color=blue&label=Release&sort=semver&style=flat)](https://github.com/Varneon/Repository-Template-VUdon/releases/latest)
+# [VUdon](https://github.com/Varneon/VUdon) - CMD [![GitHub Repo stars](https://img.shields.io/github/stars/Varneon/VUdon-CMD?style=flat&label=Stars)](https://github.com/Varneon/VUdon-CMD/stargazers) [![GitHub all releases](https://img.shields.io/github/downloads/Varneon/VUdon-CMD/total?color=blue&label=Downloads&style=flat)](https://github.com/Varneon/VUdon-CMD/releases) [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Varneon/VUdon-CMD?color=blue&label=Release&sort=semver&style=flat)](https://github.com/Varneon/VUdon-CMD/releases/latest)
 
 </div>
 
-Template repository for VUdon packages
+Command line interpreter for Udon
 
 # Installation
 
