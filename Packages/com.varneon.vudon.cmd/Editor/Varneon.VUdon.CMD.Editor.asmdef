@@ -1,6 +1,8 @@
 {
-    "name": "Varneon.VUdon.RepositoryTemplate.Editor",
-    "references": [],
+    "name": "Varneon.VUdon.CMD.Editor",
+    "references": [
+        "Varneon.VUdon.CMD.Runtime"
+    ],
     "includePlatforms": [
         "Editor"
     ],
